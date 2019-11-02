@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Movie Trailers</title>
+    <link rel="stylesheet" type="text/css" href="new.css"/>
+</head>
+<body>
+    <h1>Movie Trailers</h1>
+    <p>
+        A list of my favorite movies and their trailers from youtube.
+    </p>
+
+    <ul>
+        <li>1. The Dark Knight
+            <p>
+        <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/EXeTwQWrcwY" 
+        frameborder="0" allow="accelerometer; autoplay; 
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </p>
+        <table border="5">
+            <tr>
+                <td>Rating</td>
+                <td>4.0/5.0</td>
+                
+            </tr>
+            <tr>
+                <td><i><b>Description: Batman fights the Joker</i></b></td>
+            </tr>
+        </table>
+            </li>
+            <br>
+            <hr>
+        <li>2. Gladiator
+            <p>
+                    <iframe width="560" height="315" 
+                    src="https://www.youtube.com/embed/owK1qxDselE" 
+                    frameborder="0" allow="accelerometer; autoplay;
+                     encrypted-media; gyroscope; picture-in-picture" 
+                     allowfullscreen></iframe>
+            </p>
+            <table border="5">
+                <tr>
+                    <td class="rating">Rating</td>
+                    <td>4.8/5.0</td>
+                </tr>
+                    <td>Description: A Roman general turned slave, slave turned gladiator</td>
+            </table>
+        </li>
+        <br>
+        <hr>
+        <li>3. Forrest Gump<br>
+            <a target="_blank" href="https://www.imdb.com/title/tt0109830/?ref_=nv_sr_1?ref_=nv_sr_1">
+            <img height="200" src="https://ih0.redbubble.net/image.716044460.7825/flat,550x550,075,f.u9.jpg">
+            </a>
+            <p>
+                    <iframe width="560" height="315"
+                     src="https://www.youtube.com/embed/bLvqoHBptjg" 
+                     frameborder="0" allow="accelerometer; autoplay; encrypted-media;
+                      gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
+            </p>
+            <table border="5">
+                <tr>
+                    <td>Rating</td>
+                    <td>5.0/5.0</td>
+                </tr>
+                    <td>Description: A seemingly ordinary man lives an extraordinary life</td>
+            </table>
+
+        </li>
+        <br>
+        <hr>
+        <li>4. Star Wars
+            <p>
+                    <iframe width="560" height="315" 
+                    src="https://www.youtube.com/embed/1g3_CFmnU7k" 
+                    frameborder="0" allow="accelerometer; autoplay; 
+                    encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen></iframe>
+            </p>
+            <table border="5">
+                <tr>
+                    <td>Rating</td>
+                    <td>4.0/5.0</td>
+                </tr>
+                    <td>Description: A farmboy goes on adventures with a creepy hermit</td>
+            </table>
+        </li>
+    </ul>
+</body>
+
+</html>
